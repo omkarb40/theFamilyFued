@@ -30,7 +30,7 @@ If you'd like to contribute to the project, please open an issue or submit a pul
 ## Maintainers
 -------------
 
-* [Your Name](https://github.com/your-username)
+* Omkar Badadale (https://github.com/omkarb40)
 
 ## Badge
 ------
