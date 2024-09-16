@@ -32,11 +32,6 @@ If you'd like to contribute to the project, please open an issue or submit a pul
 
 * Omkar Badadale (https://github.com/omkarb40)
 
-## Badge
-------
-
-[! [standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-
 ## Note
 -----
 
